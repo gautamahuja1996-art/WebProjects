@@ -1,0 +1,21 @@
+h1{
+    background-color: blanchedalmond;
+    color: grey;
+}
+
+p{
+    background-color: azure;
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-style: italic;
+}
+
+img{
+    border: 5px solid black;
+    border-radius: 10px;
+}
+
+div{
+    text-align: center;
+}
